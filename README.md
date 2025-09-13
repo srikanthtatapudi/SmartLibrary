@@ -1,6 +1,6 @@
 # 📚 Smart Library Management System  
 
-A full-stack web application to streamline library operations such as **seat reservation, rack management, and seminar scheduling**.  
+A full-stack web application to streamline library operations such as **seat reservation, rack management, and seminar scheduling**. 
 Built with **Node.js, Express, MongoDB**, and a simple **HTML/CSS/JS frontend**.  
 
 ---
